@@ -1,0 +1,11 @@
+Hello,
+
+Here are some contact details:
+
+[neha@gmail.com](mailto:neha@gmail.com)
+[support@example.com](mailto:support@example.com)
+[john123@yahoo.com](mailto:john123@yahoo.com)
+[contact@codealpha.tech](mailto:contact@codealpha.tech)
+[student2026@outlook.com](mailto:student2026@outlook.com)
+
+Thank you!
